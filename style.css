@@ -8,3 +8,17 @@ body{
 body div textarea{
     width: 60%;
 }
+@media(min-width:768px){
+    body div textarea{
+        width: 46%;
+    }
+    body div button{
+        height: 40px;
+
+    }
+    div#lettersDiv{
+        margin:0 auto;
+    }
+
+
+}
